@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola! Soy Alexander Parra 👋, un economista con intereses en la microeconometría aplicada, análisis de datos y la modelización estadística de riesgos 📚.
 
 <!--
 **aparrani/aparrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
